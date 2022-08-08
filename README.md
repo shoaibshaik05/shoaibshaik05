@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shoaib Shaik</h1>
-<h3 align="center">Budding Software Engineer from India</h3>
+<h3 align="center">Software Engineer from India</h3>
 
-- 💬 Ask me about **data structures, algorithms, node and backend dev**
+- 💬 Ask me about **Data Structures, ReactJs, NodeJs, Express, MongoDB, Git, AWS**
 
 - 📫 How to reach me **shoaibmahaboobshaik1999@gmail.com**
 
